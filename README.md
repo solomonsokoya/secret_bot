@@ -1,0 +1,1 @@
+run `node sample_bot.js` for a basic demo
