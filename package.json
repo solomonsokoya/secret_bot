@@ -1,0 +1,26 @@
+{
+  "name": "secret_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neurocollective/secret_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neurocollective/secret_bot/issues"
+  },
+  "homepage": "https://github.com/neurocollective/secret_bot#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "puppeteer": "^1.6.1",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
